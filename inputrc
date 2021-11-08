@@ -1,0 +1,16 @@
+set colored-completion-prefix on
+set completion-prefix-display-length 2
+set colored-stats on
+set completion-ignore-case on
+set completion-query-items 0
+set completion-map-case on
+set convert-meta off
+set expand-tilde off
+set mark-directories off
+set editing-mode vi
+set show-mode-in-prompt off
+set show-all-if-ambiguous off
+set skip-completed-text on
+set visible-stats on
+
+TAB: menu-complete
